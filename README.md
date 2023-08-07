@@ -1,1 +1,1 @@
-Cola-Core for Dorado7 特别版
+Cola-Core for Dorado7
